@@ -1,7 +1,6 @@
-## Olá, me chamo Pedro Dantas, sou desenvolvedor de software 😃
+## Olá, me chamo Pedro Dantas. Sou desenvolvedor de software 😃
 
 - Atualmente estou trabalhando com Java/Node js
-- Aprendendo Cloud, usando o serviço da AWS
 
 <div align="center">
   <a href="https://github.com/pedroppd">
