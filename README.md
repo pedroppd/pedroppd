@@ -1,4 +1,4 @@
-## Olá, me chamo Pedro Dantas. Sou desenvolvedor de software 😃
+## Bem vindo ao meu portifólio 😃
 
 - Atualmente estou trabalhando com Java/Node js
 
