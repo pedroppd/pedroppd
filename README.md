@@ -1,6 +1,6 @@
 ## Welcome to my portfolio 😃
 
-- Atualmente estou trabalhando com Java/Node js
+- I currently work with java/Node
 
 <div align="center">
   <a href="https://github.com/pedroppd">
