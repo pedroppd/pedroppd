@@ -1,4 +1,4 @@
-## Bem vindo ao meu portifólio 😃
+## Welcome to my portfolio 😃
 
 - Atualmente estou trabalhando com Java/Node js
 
