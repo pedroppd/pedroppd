@@ -1,6 +1,6 @@
 ## Welcome to my portfolio 😃
 
-- Currently I work with java, Node JS and Python.
+- Currently I work with java, Go, Node JS and Python.
 
 <div align="center">
   <a href="https://github.com/pedroppd">
